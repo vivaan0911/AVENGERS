@@ -1,0 +1,21 @@
+body {
+ text-align: center;
+    background: rgb(193,34,195);
+background: linear-gradient(0deg, rgba(193,34,195,1) 0%, rgba(45,253,240,1) 100%);
+}
+#heading {
+      border: dashed;
+  border-width: 5px;
+  border-color: #2979FF;
+  background-color: #F50057;
+  font-size: 25px;
+  color:#A7FFEB;
+}
+.h2 {
+      color: #673AB7;
+  border: dashed;
+  border-width: 5px;
+  border-color: #00B8D4;
+  font-family: Merriweather, serif;
+    background-color:aqua;
+}
